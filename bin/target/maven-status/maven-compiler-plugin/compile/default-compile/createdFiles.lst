@@ -1,0 +1,7 @@
+com\veri\security\service\IUserDetailsService.class
+com\veri\security\entity\User.class
+com\veri\security\repository\UserRepository.class
+com\veri\security\UserNotFoundException.class
+com\veri\security\service\UserDetailsService.class
+com\veri\security\MainApplication.class
+com\veri\security\ServletInitializer.class
